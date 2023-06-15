@@ -4,14 +4,17 @@
 node_modules
 package.json
 package-lock.json
+env.bat
 
+resource/adv/
 resource/character/
 resource/image/character/battle/
 resource/image/character/cutin/
 resource/image/character/deck/
 resource/image/character/sidestory/
 resource/image/decoration/
-resource/image/enemy/
+resource/image/enemy/battle/cutin
+#resource/image/enemy/icon
 resource/image/episode/
 resource/image/event/
 resource/image/exchange/
