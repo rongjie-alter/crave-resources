@@ -18,6 +18,7 @@ resource/image/enemy/battle/cutin
 resource/image/episode/
 resource/image/event/
 resource/image/exchange/
+resource/image/home/gachaExchange/button
 resource/image/quest/
 resource/image/expedition/
 resource/image/footer/
@@ -36,3 +37,4 @@ resource/spine/
 
 # Local Netlify folder
 .netlify
+*.ini
